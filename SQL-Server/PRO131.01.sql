@@ -1,3 +1,7 @@
+/*
+https://drive.google.com/file/d/1zigiUp-TIa66mY-hD0kD9zCNL7q45Ejv/view?usp=sharing
+*/
+
 CREATE DATABASE QLBH;
 GO
 USE QLBH;
