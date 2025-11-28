@@ -17,5 +17,9 @@ INSERT INTO nhan_vien
 	(ID, Ten, Gioi_Tinh, Ngay_Sinh)
 VALUES
 	(1, N'Ng Minh A', 1, '2000-12-20');
+INSERT INTO nhan_vien
+	(ID, Ten, Gioi_Tinh, Ngay_Sinh)
+VALUES
+	(2, N'Ng Minh B', 0, '2000-12-20');
 GO
 SELECT * FROM nhan_vien;
