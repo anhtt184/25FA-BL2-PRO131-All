@@ -10,7 +10,8 @@ CREATE TABLE nhan_vien (
 	ID INT PRIMARY KEY,
 	Ten NVARCHAR(50) NOT NULL,
 	Gioi_Tinh BIT NOT NULL,
-	Ngay_Sinh DATE
+	Ngay_Sinh DATE,
+	Ngay_Tao DATE
 );
 GO
 INSERT INTO nhan_vien
