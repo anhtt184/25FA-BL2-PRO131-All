@@ -5,4 +5,3 @@
 3. Github
 4. Reference
 5. Configuration
-6. Configuration 2
